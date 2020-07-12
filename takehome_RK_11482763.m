@@ -1,6 +1,5 @@
 % ECE 3304 - Discrete Time Signal Analysis
 % Dr. Tanja Karp
-% Spring 2019 Take Home Examination Portion
 % Submitted by: Rohan Khadgi
 % R#: R11482763
 % Date: 05/10/2019
